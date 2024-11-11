@@ -12,7 +12,7 @@ This is a script for a project using full-count historical census data to unders
 # Python 
 This is a project I did for AMATH 352 (applied linear algebra). The program uses matrix algebra to solve for voltages and currents in an electric circuit. 
 
-I also put test1.txt and final.txt files in the folder which give the starting conditions of the circuit. 
+I also put test1.txt and final.txt files in the folder which give possible starting conditions of the circuit. 
 
 #Java 
 This is a project I did for CSE 143 (Introduction to Computer Science (Data Structures). The program takes in a dictionary of words and a phrase, then returns all possible combinations of the letters in the phrase based on the dictionary. 
